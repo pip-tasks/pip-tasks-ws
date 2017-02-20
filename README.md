@@ -8,6 +8,7 @@ This is a workspace for [Pip.Tasks](https://github.com/pip-tasks/pip-tasks) proj
 - **pip-tasks-java-ps** - Java build tasks
 - **pip-tasks-js-ps** - Javascript and Node.js build tasks
 - **pip-tasks-python-ps** - Python build tasks
+- **pip-tasks-all-ps** - Integrated Powershell module
 
 ## Installation
 
@@ -26,6 +27,7 @@ This is a workspace for [Pip.Tasks](https://github.com/pip-tasks/pip-tasks) proj
 > git clone https://github.com/pip-tasks/pip-tasks-java-ps.git
 > git clone https://github.com/pip-tasks/pip-tasks-js-ps.git
 > git clone https://github.com/pip-tasks/pip-tasks-python-ps.git
+> git clone https://github.com/pip-tasks/pip-tasks-all-ps.git
 ```
 
 ## Usage

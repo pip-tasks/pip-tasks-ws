@@ -7,4 +7,5 @@ $VersionControlRepos = @(
     "https://github.com/pip-tasks/pip-tasks-js-ps.git"
     "https://github.com/pip-tasks/pip-tasks-java-ps.git"
     "https://github.com/pip-tasks/pip-tasks-python-ps.git"
+    "https://github.com/pip-tasks/pip-tasks-all-ps.git"
 )
