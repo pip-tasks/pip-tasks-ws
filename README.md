@@ -1,14 +1,14 @@
-# <img src="https://github.com/pip-tasks/pip-tasks-ps/raw/master/artifacts/logo.png" alt="Pip.Devs Logo" style="max-width:30%"> <br/> Workspace for Pip.Tasks
+# <img src="https://github.com/pip-tasks/pip-tasks/raw/master/artifacts/logo.png" alt="Pip.Devs Logo" style="max-width:30%"> <br/> Workspace for Pip.Tasks
 
 This is a workspace for [Pip.Tasks](https://github.com/pip-tasks/pip-tasks) project build infrastructure:
 
-- **pip-tasks-ps** - cross-platform project build system in Powershell
-- **pip-tasks-common-ps** - common build tasks
-- **pip-tasks-dotnet-ps** - .NET build tasks
-- **pip-tasks-java-ps** - Java build tasks
-- **pip-tasks-js-ps** - Javascript and Node.js build tasks
-- **pip-tasks-python-ps** - Python build tasks
-- **pip-tasks-all-ps** - Integrated Powershell module
+- **pip-tasks** - cross-platform project build system in Powershell
+- **pip-tasks-common** - common build tasks
+- **pip-tasks-dotnet** - .NET build tasks
+- **pip-tasks-java** - Java build tasks
+- **pip-tasks-js** - Javascript and Node.js build tasks
+- **pip-tasks-python** - Python build tasks
+- **pip-tasks-all** - Integrated Powershell module
 
 ## Installation
 
@@ -21,13 +21,13 @@ This is a workspace for [Pip.Tasks](https://github.com/pip-tasks/pip-tasks) proj
 
 - Manually clone pip-tasks modules
 ```bash
-> git clone https://github.com/pip-tasks/pip-tasks-ps.git
-> git clone https://github.com/pip-tasks/pip-tasks-common-ps.git
-> git clone https://github.com/pip-tasks/pip-tasks-dotnet-ps.git
-> git clone https://github.com/pip-tasks/pip-tasks-java-ps.git
-> git clone https://github.com/pip-tasks/pip-tasks-js-ps.git
-> git clone https://github.com/pip-tasks/pip-tasks-python-ps.git
-> git clone https://github.com/pip-tasks/pip-tasks-all-ps.git
+> git clone https://github.com/pip-tasks/pip-tasks.git
+> git clone https://github.com/pip-tasks/pip-tasks-common.git
+> git clone https://github.com/pip-tasks/pip-tasks-dotnet.git
+> git clone https://github.com/pip-tasks/pip-tasks-java.git
+> git clone https://github.com/pip-tasks/pip-tasks-js.git
+> git clone https://github.com/pip-tasks/pip-tasks-python.git
+> git clone https://github.com/pip-tasks/pip-tasks-all.git
 ```
 
 ## Usage

@@ -1,6 +1,6 @@
-/pip-tasks-ps
-/pip-tasks-common-ps
-/pip-tasks-dotnet-ps
-/pip-tasks-js-ps
-/pip-tasks-java-ps
-/pip-tasks-python-ps
+/pip-tasks
+/pip-tasks-common
+/pip-tasks-dotnet
+/pip-tasks-js
+/pip-tasks-java
+/pip-tasks-python

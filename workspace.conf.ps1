@@ -1,11 +1,11 @@
 
 $VersionControl = 'git'
 $VersionControlRepos = @(
-    "https://github.com/pip-tasks/pip-tasks-ps.git"
-    "https://github.com/pip-tasks/pip-tasks-common-ps.git"
-    "https://github.com/pip-tasks/pip-tasks-dotnet-ps.git"
-    "https://github.com/pip-tasks/pip-tasks-js-ps.git"
-    "https://github.com/pip-tasks/pip-tasks-java-ps.git"
-    "https://github.com/pip-tasks/pip-tasks-python-ps.git"
-    "https://github.com/pip-tasks/pip-tasks-all-ps.git"
+    "https://github.com/pip-tasks/pip-tasks.git"
+    "https://github.com/pip-tasks/pip-tasks-common.git"
+    "https://github.com/pip-tasks/pip-tasks-dotnet.git"
+    "https://github.com/pip-tasks/pip-tasks-js.git"
+    "https://github.com/pip-tasks/pip-tasks-java.git"
+    "https://github.com/pip-tasks/pip-tasks-python.git"
+    "https://github.com/pip-tasks/pip-tasks-all.git"
 )
